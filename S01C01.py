@@ -1,4 +1,3 @@
-# John B. Thompson
 # Cryptopals Set 1 Challenge 1
 # https://www.cryptopals.com/sets/1/challenges/1
 
